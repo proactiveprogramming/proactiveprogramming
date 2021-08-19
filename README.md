@@ -39,14 +39,11 @@ For the last two years, I have been have had part-time paid freelance work writi
 A selection of these articles is included in a repository called articles.
 
 ### Unpaid independent work
-I have been working on three independent projects.  They are still a work in progress, and I am unsure at the current time
-if I am going to include (open for the public) this work. At the current time, I am not sure what my future plans are for these
-projects.
+I have been working on three independent projects: BothSideDiscover, XtremeHebrew, and SolidVote.  
 
-
-
-
-
+They are all still a work in progress, and I am unsure at the current time if I am going to open the products to the public or 
+keep things proprietary.  Or if I will end up with a hybrid model of a simple version being open source and a more complete
+and complex version being propreitary.
 
 <!---
 proactiveprogramming/proactiveprogramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
