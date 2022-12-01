@@ -33,7 +33,7 @@
 	HTML/CSS (independent learning and work)
 	Javascript (independ learning and work)
 	
-## 🔩 Databases
+## 🔗 Databases
 	MySQL, MariaDB table base database system
 	MongoDB, document based, JSON database system
 	Sqlite
