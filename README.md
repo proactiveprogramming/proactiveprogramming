@@ -1,6 +1,6 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 Xtreme_Hebrew_9000 (Hebrew English Dictionary, Grammar, and Learning Program.
+- 💼 Creator 𝚘𝚏 Xtreme_Hebrew_9000 (Hebrew English Dictionary, Grammar, and Learning Program)
 - 🎓 BS Computer Science and Software Engineering from RIT (Rochester Institute of Technology.  Minor in Medical Studies and History
 - 🌐 Check out my open source projects on GitHub (Collection of information, Tutorials, Small Projects)
 
