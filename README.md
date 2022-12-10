@@ -10,7 +10,7 @@
 
 ## 🔩 Scripting languages
 - PHP (php 8.2, php 8.1.13, php 7.4)
-- Lua (lua 5.4.4,2011-12-15) 
+- Lua (lua 5.4.4, 2011-12-15) 
 - HTML 5 (HTML5, 2014-10-28)
 - CSS (CSS3, modules leveled independently)
 - Javascript (ECMAScript 2020)
