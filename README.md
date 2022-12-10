@@ -31,8 +31,8 @@
 - Adobe Commerce (Formerly Magento)
 
 
-## :book: Education
-- 🎓 BS Computer Science and Software Engineering from RIT (Rochester Institute of Technology.  Minor in Medical Studies and History
+## 🎓 Education
+- BS Computer Science and Software Engineering from RIT (Rochester Institute of Technology.  Minor in Medical Studies and History
 
 ## Other technologies worth mentioning
 - Python
