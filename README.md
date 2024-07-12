@@ -1,25 +1,28 @@
 ## 📕 Operating systems 
-- Ubuntu, Linux, Unix
+- Ubuntu (24.04), Linux, Unix
 - Microsoft Windows
 - Android
 	
 ## 🔧 Programming languages
-- Go programming language (1.19.4, 2022-12-06) 
-- C (C11, ISO/IEC 9899:2011, 2011-12-15), Go is the future of C
-- C++ (C++23, to be released in 2023)
+- go v1.22.0 (released 2024-02-06), Go is the future of C 
+- C (C17, ISO/IEC 9899:2018), same as C11
+- C++12, C++20, C++23 (in progress), C++26  (future)
+- Java
 
 ## 🔩 Scripting languages
-- PHP (php 8.2, php 8.1.13, php 7.4)
+- PHP (php 8.3, php 7.4)
 - Lua (lua 5.4.4, 2011-12-15) 
 - HTML 5 (HTML5, 2014-10-28)
 - CSS (CSS3, modules leveled independently)
 - Javascript (ECMAScript 2020)
+- Python (3.7.0)
+- Bash
 	
 ## 🔗 Databases
-- MySQL, table based database system (8.0.31, 2022-10-11)
-- MariaDB, table base database system (10.10.2, 2022-11-17)
-- MongoDB, document based, JSON database system (6.0, 2022)
-- Sqlite (3.40.0, 2022-11-16)
+- MySQL, table based database system (8.0.31, 2022-10-11), relational DB, table based
+- MariaDB, table base database system (10.10.2, 2022-11-17), relational DB, table based
+- MongoDB, document based, JSON database system (6.0, 2022), document based, JSON Format
+- Sqlite (3.40.0, 2022-11-16), single file DB system
 
 ## Applications
 - Mediawiki (wiki)
@@ -33,10 +36,6 @@
 
 ## 🎓 Education
 - BS Computer Science and Software Engineering from RIT (Rochester Institute of Technology.  Minor in Medical Studies and History
-
-## Other technologies worth mentioning
-- Python
-- Bash
 
 
 
