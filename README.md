@@ -6,7 +6,7 @@
 ## 🔧 Programming languages
 - go v1.22.0 (released 2024-02-06), Go is the future of C 
 - C (C17, ISO/IEC 9899:2018), same as C11
-- C++12, C++20, C++23 (in progress), C++26  (future)
+- C++12 (12.4)
 - Java
 
 ## 🔩 Scripting languages
