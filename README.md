@@ -24,7 +24,7 @@
 - MongoDB, document based, JSON database system (6.0, 2022), document based, JSON Format
 - Sqlite (3.40.0, 2022-11-16), single file DB system
 
-## Applications
+## 🖥️ Applications
 - Mediawiki (wiki)
 - WordPress (blogging)
 - Joomla (content management system, CMS)
@@ -33,9 +33,11 @@
 - Mahara (eportfolio)
 - Adobe Commerce (Formerly Magento)
 
+## 🧰 Tools
+- Git and Github
 
 ## 🎓 Education
-- BS Computer Science and Software Engineering from RIT (Rochester Institute of Technology.  Minor in Medical Studies and History
+- BS in Computer Science and Software Engineering from RIT (Rochester Institute of Technology.  Minor in Medical Studies and History
 
 
 
