@@ -1,4 +1,4 @@
-## WordNet4 (project)
+## 🌐 WordNet4 (project)
 - [WordNet4] https://github.com/github/proactiveprogramming/WordNet4
 - [WordNet4-notes] https://github.com/github/proactiveprogramming/WordNet4-notes
 - [WordNet4-db] https://github.com/github/proactiveprogramming/WordNet4-db
