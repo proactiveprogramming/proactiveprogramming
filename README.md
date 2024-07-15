@@ -1,14 +1,14 @@
 ## 🌐 WordNet4 (project)
-- [WordNet4] https://github.com/github/proactiveprogramming/WordNet4
-- [WordNet4-notes] https://github.com/github/proactiveprogramming/WordNet4-notes
-- [WordNet4-db] https://github.com/github/proactiveprogramming/WordNet4-db
-- [WordNet4-mysql] https://github.com/github/proactiveprogramming/WordNet4-mysql
-- [WordNet4-sqlite] https://github.com/github/proactiveprogramming/WordNet4-sqlite
-- [WordNet4-csv] https://github.com/github/proactiveprogramming/WordNet4-csv
-- [WordNet4-json] https://github.com/github/proactiveprogramming/WordNet4-json
-- [WordNet4-ttl] https://github.com/github/proactiveprogramming/WordNet4-ttl
-- [WordNet4-yaml] https://github.com/github/proactiveprogramming/WordNet4-yaml
-- [WordNet4-xml] https://github.com/github/proactiveprogramming/WordNet4-xml
+- [WordNet4] https://github.com/proactiveprogramming/WordNet4
+- [WordNet4-notes] https://github.com/proactiveprogramming/WordNet4-notes
+- [WordNet4-db] https://github.com/proactiveprogramming/WordNet4-db
+- [WordNet4-mysql] https://github.com/proactiveprogramming/WordNet4-mysql
+- [WordNet4-sqlite] https://github.com/proactiveprogramming/WordNet4-sqlite
+- [WordNet4-csv] https://github.com/proactiveprogramming/WordNet4-csv
+- [WordNet4-json] https://github.com/proactiveprogramming/WordNet4-json
+- [WordNet4-ttl] https://github.com/proactiveprogramming/WordNet4-ttl
+- [WordNet4-yaml] https://github.com/proactiveprogramming/WordNet4-yaml
+- [WordNet4-xml] https://github.com/proactiveprogramming/WordNet4-xml
 
 ## 📕 Operating systems 
 - Ubuntu (24.04), Linux, Unix
